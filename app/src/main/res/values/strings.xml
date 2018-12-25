@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Rant</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <!--adding from sutiksh's work-->
+    <string name="user">User</string>
+    <string name="followers">Followers</string>
+    <string name="follow_count">10m</string>
+    <string name="following_count">450</string>
+    <string name="following">Following</string>
+    <string name="email_add">verma.sutiksh27@gmail.com</string>
+    <string name="phoneno">+917043944785</string>
+    <string name="add_as_friend">Add As Friend</string>
+    <string name="show_all_comments">Show All Comments</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register_text">Don\'t have an account? Create one</string>
+    <string name="login_with_facebook">Login With Facebook</string>
+    <string name="tweet_login">Login With Twitter</string>
+    <string name="username">Username</string>
+    <string name="full_name">Full name</string>
+    <string name="country">Country</string>
+    <string name="save">Save</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+</resources>
+
+
